@@ -6,6 +6,6 @@ To run the program:
 1. Clone the repo
 2. Run the following in the terminal to connect to the WebSocket: 
 
-`node server/main.js`
+   `node server/main.js`
 
 3. Refresh the browser to enter a room with unique id and start playing.
